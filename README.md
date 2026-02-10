@@ -57,7 +57,7 @@ Como o projeto está em fase de desenvolvimento, sugestões e Pull Requests são
 - Push para a Branch (git push origin feature/NovaFeature).
 - Abra um Pull Request.
 
---
+---
 
 👨‍💻 Autor
 Desenvolvido por João Pedro
