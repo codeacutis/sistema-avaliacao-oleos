@@ -59,6 +59,6 @@ Como o projeto está em fase de desenvolvimento, sugestões e Pull Requests são
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido por João Pedro
 GitHub: https://github.com/codeacutis
