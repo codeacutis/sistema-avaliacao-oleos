@@ -37,7 +37,6 @@ public class UsuarioController {
     @PutMapping
     public ResponseEntity<Void> atualizarUsuario(@RequestBody Usuario usuario, @RequestParam Integer id){
         usuarioService.atualizarUsuarioPorId(id, usuario);
-        System.out.println("Usuário atualizado com sucesso!");
         return ResponseEntity.ok().build();
     }
 
